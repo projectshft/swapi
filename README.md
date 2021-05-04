@@ -11,11 +11,11 @@ Essentially, it's a small web application built using the [Star Wars API](https:
 We're going to assume that you're a bit familiar with HTML, CSS and JavaScript, perhaps event Bootstrap and jQuery. If not, you may be a little lost, but we challenge you to give it a shot either way. At the very least, this code-along should give you an idea of things to learn next!
 
 ## Setup
-For simplicity sake, we're going to be using [codepen.io](codepen.io). Navigate there now and click "Create", then "New Pen".
+For simplicity sake, we're going to be using [codepen.io](codepen.io). Navigate there now and click "Start Coding".
 
 Notice that we have 3 different text windows and screen to show the results below:
 
-![img](https://www.projectshift.io/wp-content/uploads/2018/09/Screen-Shot-2018-09-17-at-3.01.36-PM.png)
+![img](https://ps-curriculum-images.s3.amazonaws.com/swapi-1.png)
 
 Inside these text windows we can write HTML, CSS and JavaScript and see the results (as we would in a browser), in the window at the bottom. Let's give it a shot.
 
